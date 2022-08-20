@@ -1,6 +1,6 @@
 // Variables
 
-const contenedorProductos = document.querySelectorAll("#contenedorProductos")
+const contenedorProductos = document.querySelector("#contenedorProductos")
 
 
 

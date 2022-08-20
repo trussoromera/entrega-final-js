@@ -6,7 +6,7 @@
         "categoria": "kitesurf",
         "precio": 100000,
         "stock": 10,
-        "img": "../multimedia/productos-kite/kite-1.png"
+        "img": "/multimedia/kite-1.png"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "categoria": "kitesurf",
         "precio": 110000,
         "stock": 25,
-        "img": "../multimedia/productos-kite/kite-2.png"
+        "img": "/multimedia/kite-2.png"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "categoria": "kitesurf",
         "precio": 90000,
         "stock": 5,
-        "img": "../multimedia/productos-kite/kite-3.png"
+        "img": "/multimedia/kite-3.png"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "categoria": "kitesurf",
         "precio": 140000,
         "stock": 10,
-        "img": "../multimedia/productos-kite/kite-4.png"
+        "img": "/multimedia/kite-4.png"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "categoria": "kitesurf",
         "precio": 160000,
         "stock": 13,
-        "img": "../multimedia/productos-kite/kite-5.png"
+        "img": "/multimedia/kite-5.png"
     },
     {
         "id": 6,
@@ -51,6 +51,6 @@
         "categoria": "kitesurf",
         "precio": 45000,
         "stock": 9,
-        "img": "../multimedia/productos-kite/tabla-kite.png"
+        "img": "/multimedia/tabla-kite.png"
     }
 ]
