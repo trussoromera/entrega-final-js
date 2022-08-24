@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;  
+}
+
+.redes-soc a {
+    color: white; 
+}
+
+.btn-dark {
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 20px; 
+
+}
+
+.footer-config{
+    background-color: rgb(24, 23, 23);
+    padding: 2rem; 
+}
+
+.card-body{
+    text-align: center;
+}
+
+.modif-carrito{
+    background-color: red;
+}
